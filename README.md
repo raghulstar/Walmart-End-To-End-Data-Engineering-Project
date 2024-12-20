@@ -4,8 +4,6 @@
 
 *Predicting Walmart store sales using advanced data engineering and machine learning workflows*
 
-[Explore Project](#-introduction) 
-
 </div>
 
 ## 🚀 Table of Contents
