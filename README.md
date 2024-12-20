@@ -4,7 +4,7 @@
 
 *Predicting Walmart store sales using advanced data engineering and machine learning workflows*
 
-[Explore Project](#-introduction) · [Report Bug](https://github.com/RaghulK/walmart-store-sales-prediction/issues) · [Request Feature](https://github.com/RaghulK/walmart-store-sales-prediction/issues)
+[Explore Project](#-introduction) 
 
 </div>
 
@@ -15,9 +15,8 @@
 4. [Technologies Used](#-technologies-used)
 5. [Project Workflow](#-project-workflow)
 6. [Contributions](#-contributions)
-7. [How to Run](#-how-to-run)
-8. [Documentation and Resources](#-documentation-and-resources)
-9. [Video Walkthrough](#-video-walkthrough)
+7. [Documentation and Resources](#-documentation-and-resources)
+8. [Video Walkthrough](#-video-walkthrough)
     
 ## 📖 Introduction
 The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/CD pipelines, and machine learning models to predict weekly sales for Walmart stores. This project is a blend of robust data engineering and advanced machine learning techniques to create a production-ready solution.
@@ -73,16 +72,6 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
   - Designed and implemented ML models for sales prediction.
   - Conducted model evaluation and hyperparameter tuning.
 
-## ⚙️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RaghulK/walmart-store-sales-prediction.git
-   cd walmart-store-sales-prediction
-   ```
-2. Open the notebooks in the `Notebooks` folder to explore data transformation and modeling steps.
-3. Set up Azure Data Factory pipelines using the YAML file in the `CI-CD Pipeline` folder.
-4. Use the datasets from the `Datasets` folder to test locally.
-
 ## 📚 Documentation and Resources
 - **Documentation**: [Documentation](./Documentation.pdf)
 - **Solution Architecture**: [Solution Architecture](./Solution%20Architecture.png)
@@ -94,5 +83,5 @@ Check out the complete project walkthrough on YouTube:
 [![Watch on YouTube](https://img.youtube.com/vi/n6bXZFH9nqY/0.jpg)](https://www.youtube.com/watch?v=n6bXZFH9nqY)
 
 <div align="center">
-Made with ❤️ by Raghul K and Pradeksha
+Made with ❤️ by Raghul K 
 </div>
