@@ -105,7 +105,7 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
 - **Documentation**: [Documentation](./Documentation.pdf)
 - **Solution Architecture**: [Solution Architecture](./Solution%20Architecture.png)
 - **Pipeline Architecture**: [Pipeline Architecture](./Pipeline%20Architecture.png)
-- **Presentation**: [Project Presentation](./Final%20Presentation.pptx)
+- **Presentation**: [Project Presentation](./Presentation.pptx)
 
 ---
 
