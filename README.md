@@ -115,11 +115,6 @@ Check out the complete project walkthrough on YouTube:
 
 ---
 
-## 📝 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 Feel free to contribute to the project or share your feedback!
 ```
 
