@@ -1,4 +1,3 @@
-```markdown
 # Walmart Store Sales Prediction
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
