@@ -1,12 +1,12 @@
-# Walmart End To End Data Enginnering Project
+# 🏪 Walmart End To End Data Engineering Project
 
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![GitHub Issues](https://img.shields.io/github/issues/RaghulK/walmart-store-sales-prediction)
-![License](https://img.shields.io/badge/License-MIT-blue)
+<div align="center">
 
-Predicting Walmart store sales using advanced data engineering and machine learning workflows.
+*Predicting Walmart store sales using advanced data engineering and machine learning workflows*
 
----
+[Explore Project](#-introduction) · [Report Bug](https://github.com/RaghulK/walmart-store-sales-prediction/issues) · [Request Feature](https://github.com/RaghulK/walmart-store-sales-prediction/issues)
+
+</div>
 
 ## 🚀 Table of Contents
 1. [Introduction](#-introduction)
@@ -19,12 +19,8 @@ Predicting Walmart store sales using advanced data engineering and machine learn
 8. [Documentation and Resources](#-documentation-and-resources)
 9. [Video Walkthrough](#-video-walkthrough)
     
----
-
 ## 📖 Introduction
 The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/CD pipelines, and machine learning models to predict weekly sales for Walmart stores. This project is a blend of robust data engineering and advanced machine learning techniques to create a production-ready solution.
-
----
 
 ## ✨ Features
 - **Data Ingestion**: Built scalable pipelines for ingesting raw datasets.
@@ -33,10 +29,7 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
 - **Visualization**: Solution and pipeline architecture visualizations.
 - **Deployment**: Integrated CI/CD pipelines for seamless deployment.
 
----
-
 ## 📂 Folder Structure
-
 ```plaintext
 📦 Walmart Store Sales Prediction
 ├── 📁 Notebooks
@@ -57,8 +50,6 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
 └── README.md
 ```
 
----
-
 ## 🛠 Technologies Used
 - **Azure Data Factory**: For orchestrating data workflows.
 - **Azure DevOps**: CI/CD pipeline setup for automation.
@@ -67,16 +58,12 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
 - **Linear Regression**: Benchmark modeling.
 - **GitHub**: Version control and collaboration.
 
----
-
 ## 🔄 Project Workflow
 1. **Data Ingestion**: Automated pipelines using Azure Data Factory.
 2. **Data Transformation**: Created bronze, silver, and gold datasets for refined analysis.
 3. **Model Training**: Built and validated machine learning models.
 4. **Deployment**: CI/CD pipelines for streamlined integration.
 5. **Visualization**: Clear architecture diagrams for transparency.
-
----
 
 ## 👥 Contributions
 - **Raghul K**: 
@@ -85,8 +72,6 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
 - **Pradeksha**:
   - Designed and implemented ML models for sales prediction.
   - Conducted model evaluation and hyperparameter tuning.
-
----
 
 ## ⚙️ How to Run
 1. Clone the repository:
@@ -98,18 +83,16 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
 3. Set up Azure Data Factory pipelines using the YAML file in the `CI-CD Pipeline` folder.
 4. Use the datasets from the `Datasets` folder to test locally.
 
----
-
 ## 📚 Documentation and Resources
 - **Documentation**: [Documentation](./Documentation.pdf)
 - **Solution Architecture**: [Solution Architecture](./Solution%20Architecture.png)
 - **Pipeline Architecture**: [Pipeline Architecture](./Pipeline%20Architecture.png)
 - **Presentation**: [Project Presentation](./Presentation.pptx)
 
----
-
 ## 🎥 Video Walkthrough
 Check out the complete project walkthrough on YouTube:  
 [![Watch on YouTube](https://img.youtube.com/vi/n6bXZFH9nqY/0.jpg)](https://www.youtube.com/watch?v=n6bXZFH9nqY)
 
----
+<div align="center">
+Made with ❤️ by Raghul K and Pradeksha
+</div>
