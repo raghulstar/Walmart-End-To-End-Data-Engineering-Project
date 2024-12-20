@@ -18,8 +18,7 @@ Predicting Walmart store sales using advanced data engineering and machine learn
 7. [How to Run](#-how-to-run)
 8. [Documentation and Resources](#-documentation-and-resources)
 9. [Video Walkthrough](#-video-walkthrough)
-10. [License](#-license)
-
+    
 ---
 
 ## 📖 Introduction
