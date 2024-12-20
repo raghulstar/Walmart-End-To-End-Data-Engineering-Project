@@ -115,6 +115,4 @@ Check out the complete project walkthrough on YouTube:
 ---
 
 Feel free to contribute to the project or share your feedback!
-```
 
-This version uses the same anchors that GitHub automatically generates based on heading names. The table of contents should now work seamlessly when copied to GitHub. Let me know if you need further adjustments!
