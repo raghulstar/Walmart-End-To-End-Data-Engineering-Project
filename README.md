@@ -1,4 +1,4 @@
-# Walmart Store Sales Prediction
+# Walmart End To End Data Enginnering Project
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![GitHub Issues](https://img.shields.io/github/issues/RaghulK/walmart-store-sales-prediction)
@@ -103,8 +103,8 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
 
 ## 📚 Documentation and Resources
 - **Documentation**: [Documentation](./Documentation.pdf)
-- **Solution Architecture**: [Solution Architecture](./solution_architecture.png)
-- **Pipeline Architecture**: [Pipeline Architecture](./pipeline_architecture.png)
+- **Solution Architecture**: [Solution Architecture](./Solution%20Architecture.png)
+- **Pipeline Architecture**: [Pipeline Architecture](./Pipeline%20Architecture.png)
 - **Presentation**: [Project Presentation](./Final%20Presentation.pptx)
 
 ---
