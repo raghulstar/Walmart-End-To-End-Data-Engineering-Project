@@ -113,6 +113,3 @@ Check out the complete project walkthrough on YouTube:
 [![Watch on YouTube](https://img.youtube.com/vi/n6bXZFH9nqY/0.jpg)](https://www.youtube.com/watch?v=n6bXZFH9nqY)
 
 ---
-
-Feel free to contribute to the project or share your feedback!
-
