@@ -51,14 +51,10 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
 │   └── features.csv
 ├── 📁 CI-CD Pipeline
 │   └── pipeline.yaml
-├── 📁 Documentation
-│   └── Documentation.pdf
-├── 📁 Presentation
-│   └── Final Presentation.pptx
-├── 📁 Solution Architecture
-│   └── solution_architecture.png
-├── 📁 Pipeline Architecture
-│   └── pipeline_architecture.png
+├── 📁 Documentation.pdf
+├── 📁 Final Presentation.pptx
+├── 📁 solution_architecture.png
+├── 📁 pipeline_architecture.png
 └── README.md
 ```
 
@@ -106,10 +102,10 @@ The **Walmart Store Sales Prediction** project leverages Azure Data Factory, CI/
 ---
 
 ## 📚 Documentation and Resources
-- **Documentation**: [Documentation](./Documentation/Documentation.pdf)
-- **Solution Architecture**: [Solution Architecture](./Solution%20Architecture/solution_architecture.png)
-- **Pipeline Architecture**: [Pipeline Architecture](./Pipeline%20Architecture/pipeline_architecture.png)
-- **Presentation**: [Project Presentation](./Presentation/Final%20Presentation.pptx)
+- **Documentation**: [Documentation](./Documentation.pdf)
+- **Solution Architecture**: [Solution Architecture](./solution_architecture.png)
+- **Pipeline Architecture**: [Pipeline Architecture](./pipeline_architecture.png)
+- **Presentation**: [Project Presentation](./Final%20Presentation.pptx)
 
 ---
 
